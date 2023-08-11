@@ -1,7 +1,7 @@
 - Hello everyone, I’m @Yveradvir
 - Programming isn't just work; it's a hobby, a chance to save oneself. It's something that relieves stress. When approached merely as a profession, all the charm is lost.
 
-
+-it's me: 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yveradvir&show_icons=true)
 
 <!---
